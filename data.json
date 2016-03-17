@@ -1,0 +1,1094 @@
+{
+"RECORDS":[
+{
+"Hiragana":"あ",
+"Katakana":"ア",
+"Romatic":"a",
+"row":"あ\/ア 行",
+"col":"あ \/ ア 段",
+"row_num":"1",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"か",
+"Katakana":"カ",
+"Romatic":"ka",
+"row":"か\/カ 行",
+"col":"あ \/ ア 段",
+"row_num":"2",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"さ",
+"Katakana":"サ",
+"Romatic":"sa",
+"row":"さ\/サ 行",
+"col":"あ \/ ア 段",
+"row_num":"3",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"た",
+"Katakana":"タ",
+"Romatic":"ta",
+"row":"た\/タ 行",
+"col":"あ \/ ア 段",
+"row_num":"4",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"な",
+"Katakana":"ナ",
+"Romatic":"na",
+"row":"な\/ナ 行",
+"col":"あ \/ ア 段",
+"row_num":"5",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"は",
+"Katakana":"ハ",
+"Romatic":"ha",
+"row":"は\/ハ 行",
+"col":"あ \/ ア 段",
+"row_num":"6",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"ま",
+"Katakana":"マ",
+"Romatic":"ma",
+"row":"ま\/マ 行",
+"col":"あ \/ ア 段",
+"row_num":"7",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"や",
+"Katakana":"ヤ",
+"Romatic":"ya",
+"row":"や\/ヤ 行",
+"col":"あ \/ ア 段",
+"row_num":"8",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"ら",
+"Katakana":"ラ",
+"Romatic":"ra",
+"row":"ら\/ラ 行",
+"col":"あ \/ ア 段",
+"row_num":"9",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"わ",
+"Katakana":"ワ",
+"Romatic":"wa",
+"row":"わ\/ワ 行",
+"col":"あ \/ ア 段",
+"row_num":"10",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"い",
+"Katakana":"イ",
+"Romatic":"i",
+"row":"あ\/ア 行",
+"col":"い \/ イ 段",
+"row_num":"1",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"き",
+"Katakana":"キ",
+"Romatic":"ki",
+"row":"か\/カ 行",
+"col":"い \/ イ 段",
+"row_num":"2",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"し",
+"Katakana":"シ",
+"Romatic":"shi",
+"row":"さ\/サ 行",
+"col":"い \/ イ 段",
+"row_num":"3",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"ち",
+"Katakana":"チ",
+"Romatic":"chi",
+"row":"た\/タ 行",
+"col":"い \/ イ 段",
+"row_num":"4",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"に",
+"Katakana":"ニ",
+"Romatic":"ni",
+"row":"な\/ナ 行",
+"col":"い \/ イ 段",
+"row_num":"5",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"ひ",
+"Katakana":"ヒ",
+"Romatic":"hi",
+"row":"は\/ハ 行",
+"col":"い \/ イ 段",
+"row_num":"6",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"み",
+"Katakana":"ミ",
+"Romatic":"mi",
+"row":"ま\/マ 行",
+"col":"い \/ イ 段",
+"row_num":"7",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"null",
+"Katakana":"null",
+"Romatic":"null",
+"row":"や \/ ヤ 行",
+"col":"い \/ イ 段",
+"row_num":"8",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"り",
+"Katakana":"リ",
+"Romatic":"ri",
+"row":"ら\/ラ 行",
+"col":"い \/ イ 段",
+"row_num":"9",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"null",
+"Katakana":"null",
+"Romatic":"null",
+"row":"わ \/ ワ 行",
+"col":"い \/ イ 段",
+"row_num":"10",
+"col_num":"2",
+"type":"清音"
+},
+{
+"Hiragana":"う",
+"Katakana":"ウ",
+"Romatic":"u",
+"row":"あ\/ア 行",
+"col":"う \/ ウ 段",
+"row_num":"1",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"く",
+"Katakana":"ク",
+"Romatic":"ku",
+"row":"か\/カ 行",
+"col":"う \/ ウ 段",
+"row_num":"2",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"す",
+"Katakana":"ス",
+"Romatic":"su",
+"row":"さ\/サ 行",
+"col":"う \/ ウ 段",
+"row_num":"3",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"つ",
+"Katakana":"ツ",
+"Romatic":"tsu",
+"row":"た\/タ 行",
+"col":"う \/ ウ 段",
+"row_num":"4",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"ぬ",
+"Katakana":"ヌ",
+"Romatic":"nu",
+"row":"な\/ナ 行",
+"col":"う \/ ウ 段",
+"row_num":"5",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"ふ",
+"Katakana":"フ",
+"Romatic":"fu",
+"row":"は\/ハ 行",
+"col":"う \/ ウ 段",
+"row_num":"6",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"む",
+"Katakana":"ム",
+"Romatic":"mu",
+"row":"ま\/マ 行",
+"col":"う \/ ウ 段",
+"row_num":"7",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"ゆ",
+"Katakana":"ユ",
+"Romatic":"yu",
+"row":"や\/ヤ 行",
+"col":"う \/ ウ 段",
+"row_num":"8",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"る",
+"Katakana":"ル",
+"Romatic":"ru",
+"row":"ら\/ラ 行",
+"col":"う \/ ウ 段",
+"row_num":"9",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"null",
+"Katakana":"null",
+"Romatic":"null",
+"row":"わ\/ワ 行",
+"col":"う \/ ウ 段",
+"row_num":"10",
+"col_num":"3",
+"type":"清音"
+},
+{
+"Hiragana":"え",
+"Katakana":"エ",
+"Romatic":"e",
+"row":"あ\/ア 行",
+"col":"え \/ エ 段",
+"row_num":"1",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"け",
+"Katakana":"ケ",
+"Romatic":"ke",
+"row":"か\/カ 行",
+"col":"え \/ エ 段",
+"row_num":"2",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"せ",
+"Katakana":"セ",
+"Romatic":"se",
+"row":"さ\/サ 行",
+"col":"え \/ エ 段",
+"row_num":"3",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"て",
+"Katakana":"テ",
+"Romatic":"te",
+"row":"た\/タ 行",
+"col":"え \/ エ 段",
+"row_num":"4",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"ね",
+"Katakana":"ネ",
+"Romatic":"ne",
+"row":"な\/ナ 行",
+"col":"え \/ エ 段",
+"row_num":"5",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"へ",
+"Katakana":"ヘ",
+"Romatic":"he",
+"row":"は\/ハ 行",
+"col":"え \/ エ 段",
+"row_num":"6",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"め",
+"Katakana":"メ",
+"Romatic":"me",
+"row":"ま\/マ 行",
+"col":"え \/ エ 段",
+"row_num":"7",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"null",
+"Katakana":"null",
+"Romatic":"null",
+"row":"や\/ヤ 行",
+"col":"え \/ エ 段",
+"row_num":"8",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"れ",
+"Katakana":"レ",
+"Romatic":"re",
+"row":"ら\/ラ 行",
+"col":"え \/ エ 段",
+"row_num":"9",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"null",
+"Katakana":"null",
+"Romatic":"null",
+"row":"わ\/ワ 行",
+"col":"え \/ エ 段",
+"row_num":"10",
+"col_num":"4",
+"type":"清音"
+},
+{
+"Hiragana":"お",
+"Katakana":"オ",
+"Romatic":"o",
+"row":"あ\/ア 行",
+"col":"お \/ オ 段",
+"row_num":"1",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"こ",
+"Katakana":"コ",
+"Romatic":"ko",
+"row":"か\/カ 行",
+"col":"お \/ オ 段",
+"row_num":"2",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"そ",
+"Katakana":"ソ",
+"Romatic":"so",
+"row":"さ\/サ 行",
+"col":"お \/ オ 段",
+"row_num":"3",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"と",
+"Katakana":"ト",
+"Romatic":"to",
+"row":"た\/タ 行",
+"col":"お \/ オ 段",
+"row_num":"4",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"の",
+"Katakana":"ノ",
+"Romatic":"no",
+"row":"な\/ナ 行",
+"col":"お \/ オ 段",
+"row_num":"5",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"ほ",
+"Katakana":"ホ",
+"Romatic":"ho",
+"row":"は\/ハ 行",
+"col":"お \/ オ 段",
+"row_num":"6",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"も",
+"Katakana":"モ",
+"Romatic":"mo",
+"row":"ま\/マ 行",
+"col":"お \/ オ 段",
+"row_num":"7",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"よ",
+"Katakana":"ヨ",
+"Romatic":"yo",
+"row":"や\/ヤ 行",
+"col":"お \/ オ 段",
+"row_num":"8",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"ろ",
+"Katakana":"ロ",
+"Romatic":"ro",
+"row":"ら\/ラ 行",
+"col":"お \/ オ 段",
+"row_num":"9",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"を",
+"Katakana":"ヲ",
+"Romatic":"o",
+"row":"わ\/ワ 行",
+"col":"お \/ オ 段",
+"row_num":"10",
+"col_num":"5",
+"type":"清音"
+},
+{
+"Hiragana":"ん",
+"Katakana":"ン",
+"Romatic":"n",
+"row":"拨音",
+"col":"拨音",
+"row_num":"11",
+"col_num":"1",
+"type":"清音"
+},
+{
+"Hiragana":"が",
+"Katakana":"ガ",
+"Romatic":"ga",
+"row":"が\/ガ 行",
+"col":"あ \/ ア 段",
+"row_num":"1",
+"col_num":"1",
+"type":"浊音"
+},
+{
+"Hiragana":"ざ",
+"Katakana":"ザ",
+"Romatic":"za",
+"row":"ざ\/ザ 行",
+"col":"あ \/ ア 段",
+"row_num":"2",
+"col_num":"1",
+"type":"浊音"
+},
+{
+"Hiragana":"だ",
+"Katakana":"ダ",
+"Romatic":"da",
+"row":"だ\/ダ 行",
+"col":"あ \/ ア 段",
+"row_num":"3",
+"col_num":"1",
+"type":"浊音"
+},
+{
+"Hiragana":"ば",
+"Katakana":"バ",
+"Romatic":"ba",
+"row":"ば\/バ 行",
+"col":"あ \/ ア 段",
+"row_num":"4",
+"col_num":"1",
+"type":"浊音"
+},
+{
+"Hiragana":"ぎ",
+"Katakana":"ギ",
+"Romatic":"gi",
+"row":"が\/ガ 行",
+"col":"い \/ イ 段",
+"row_num":"1",
+"col_num":"2",
+"type":"浊音"
+},
+{
+"Hiragana":"じ",
+"Katakana":"ジ",
+"Romatic":"ji",
+"row":"ざ\/ザ 行",
+"col":"い \/ イ 段",
+"row_num":"2",
+"col_num":"2",
+"type":"浊音"
+},
+{
+"Hiragana":"ぢ",
+"Katakana":"ヂ",
+"Romatic":"ji",
+"row":"だ\/ダ 行",
+"col":"い \/ イ 段",
+"row_num":"3",
+"col_num":"2",
+"type":"浊音"
+},
+{
+"Hiragana":"び",
+"Katakana":"ビ",
+"Romatic":"bi",
+"row":"ば\/バ 行",
+"col":"い \/ イ 段",
+"row_num":"4",
+"col_num":"2",
+"type":"浊音"
+},
+{
+"Hiragana":"ぐ",
+"Katakana":"グ",
+"Romatic":"gu",
+"row":"が\/ガ 行",
+"col":"う \/ ウ 段",
+"row_num":"1",
+"col_num":"3",
+"type":"浊音"
+},
+{
+"Hiragana":"ず",
+"Katakana":"ズ",
+"Romatic":"zu",
+"row":"ざ\/ザ 行",
+"col":"う \/ ウ 段",
+"row_num":"2",
+"col_num":"3",
+"type":"浊音"
+},
+{
+"Hiragana":"づ",
+"Katakana":"ヅ",
+"Romatic":"zu",
+"row":"だ\/ダ 行",
+"col":"う \/ ウ 段",
+"row_num":"3",
+"col_num":"3",
+"type":"浊音"
+},
+{
+"Hiragana":"ぶ",
+"Katakana":"ブ",
+"Romatic":"bu",
+"row":"ば\/バ 行",
+"col":"う \/ ウ 段",
+"row_num":"4",
+"col_num":"3",
+"type":"浊音"
+},
+{
+"Hiragana":"げ",
+"Katakana":"ゲ",
+"Romatic":"ge",
+"row":"が\/ガ 行",
+"col":"え \/ エ 段",
+"row_num":"1",
+"col_num":"4",
+"type":"浊音"
+},
+{
+"Hiragana":"ぜ",
+"Katakana":"ゼ",
+"Romatic":"ze",
+"row":"ざ\/ザ 行",
+"col":"え \/ エ 段",
+"row_num":"2",
+"col_num":"4",
+"type":"浊音"
+},
+{
+"Hiragana":"で",
+"Katakana":"デ",
+"Romatic":"de",
+"row":"だ\/ダ 行",
+"col":"え \/ エ 段",
+"row_num":"3",
+"col_num":"4",
+"type":"浊音"
+},
+{
+"Hiragana":"べ",
+"Katakana":"ベ",
+"Romatic":"be",
+"row":"ば\/バ 行",
+"col":"え \/ エ 段",
+"row_num":"4",
+"col_num":"4",
+"type":"浊音"
+},
+{
+"Hiragana":"ご",
+"Katakana":"ゴ",
+"Romatic":"go",
+"row":"が\/ガ 行",
+"col":"お \/ オ 段",
+"row_num":"1",
+"col_num":"5",
+"type":"浊音"
+},
+{
+"Hiragana":"ぞ",
+"Katakana":"ゾ",
+"Romatic":"zo",
+"row":"ざ\/ザ 行",
+"col":"お \/ オ 段",
+"row_num":"2",
+"col_num":"5",
+"type":"浊音"
+},
+{
+"Hiragana":"ど",
+"Katakana":"ド",
+"Romatic":"do",
+"row":"だ\/ダ 行",
+"col":"お \/ オ 段",
+"row_num":"3",
+"col_num":"5",
+"type":"浊音"
+},
+{
+"Hiragana":"ぼ",
+"Katakana":"ボ",
+"Romatic":"bo",
+"row":"ば\/バ 行",
+"col":"お \/ オ 段",
+"row_num":"4",
+"col_num":"5",
+"type":"浊音"
+},
+{
+"Hiragana":"ぱ",
+"Katakana":"パ",
+"Romatic":"pa",
+"row":"ぱ\/パ 行",
+"col":"あ \/ ア 段",
+"row_num":"1",
+"col_num":"1",
+"type":"半浊音"
+},
+{
+"Hiragana":"ぴ",
+"Katakana":"ピ",
+"Romatic":"pi",
+"row":"ぱ\/パ 行",
+"col":"い \/ イ 段",
+"row_num":"2",
+"col_num":"1",
+"type":"半浊音"
+},
+{
+"Hiragana":"ぷ",
+"Katakana":"プ",
+"Romatic":"pu",
+"row":"ぱ\/パ 行",
+"col":"う \/ ウ 段",
+"row_num":"3",
+"col_num":"1",
+"type":"半浊音"
+},
+{
+"Hiragana":"ぺ",
+"Katakana":"ペ",
+"Romatic":"pe",
+"row":"ぱ\/パ 行",
+"col":"え \/ エ 段",
+"row_num":"4",
+"col_num":"1",
+"type":"半浊音"
+},
+{
+"Hiragana":"ぽ",
+"Katakana":"ポ",
+"Romatic":"po",
+"row":"ぱ\/パ 行",
+"col":"お \/ オ 段",
+"row_num":"5",
+"col_num":"1",
+"type":"半浊音"
+},
+{
+"Hiragana":"きゃ",
+"Katakana":"キャ",
+"Romatic":"kya",
+"row":"か\/カ 行",
+"col":"や \/ ヤ 段",
+"row_num":"1",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"ぎゃ",
+"Katakana":"ギャ",
+"Romatic":"gya",
+"row":"が\/ガ 行",
+"col":"や \/ ヤ 段",
+"row_num":"2",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"しゃ",
+"Katakana":"シャ",
+"Romatic":"sha",
+"row":"さ\/サ 行",
+"col":"や \/ ヤ 段",
+"row_num":"3",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"じゃ",
+"Katakana":"ジャ",
+"Romatic":"jya",
+"row":"ざ\/ザ 行",
+"col":"や \/ ヤ 段",
+"row_num":"4",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"ちゃ",
+"Katakana":"チャ",
+"Romatic":"cha",
+"row":"た\/タ 行",
+"col":"や \/ ヤ 段",
+"row_num":"5",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"にゃ",
+"Katakana":"ニャ",
+"Romatic":"nya",
+"row":"な\/ナ 行",
+"col":"や \/ ヤ 段",
+"row_num":"6",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"ひゃ",
+"Katakana":"ヒャ",
+"Romatic":"hya",
+"row":"は\/ハ 行",
+"col":"や \/ ヤ 段",
+"row_num":"7",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"びゃ",
+"Katakana":"ビャ",
+"Romatic":"bya",
+"row":"ば\/バ 行",
+"col":"や \/ ヤ 段",
+"row_num":"8",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"ぴゃ",
+"Katakana":"ピャ",
+"Romatic":"pya",
+"row":"ぱ\/パ 行",
+"col":"や \/ ヤ 段",
+"row_num":"9",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"みゃ",
+"Katakana":"ミャ",
+"Romatic":"mya",
+"row":"ま\/マ 行",
+"col":"や \/ ヤ 段",
+"row_num":"10",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"りゃ",
+"Katakana":"リャ",
+"Romatic":"rya",
+"row":"ら\/ラ 行",
+"col":"や \/ ヤ 段",
+"row_num":"11",
+"col_num":"1",
+"type":"拗音"
+},
+{
+"Hiragana":"きゅ",
+"Katakana":"キュ",
+"Romatic":"kyu",
+"row":"か\/カ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"1",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"ぎゅ",
+"Katakana":"ギュ",
+"Romatic":"gyu",
+"row":"が\/ガ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"2",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"しゅ",
+"Katakana":"シュ",
+"Romatic":"shu",
+"row":"さ\/サ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"3",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"じゅ",
+"Katakana":"ジュ",
+"Romatic":"jyu",
+"row":"ざ\/ザ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"4",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"ちゅ",
+"Katakana":"チュ",
+"Romatic":"chu",
+"row":"た\/タ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"5",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"にゅ",
+"Katakana":"ニュ",
+"Romatic":"nyu",
+"row":"な\/ナ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"6",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"ひゅ",
+"Katakana":"ヒュ",
+"Romatic":"hyu",
+"row":"は\/ハ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"7",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"びゅ",
+"Katakana":"ビュ",
+"Romatic":"byu",
+"row":"ば\/バ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"8",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"ぴゅ",
+"Katakana":"ピュ",
+"Romatic":"pyu",
+"row":"ぱ\/パ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"9",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"みゅ",
+"Katakana":"ミュ",
+"Romatic":"myu",
+"row":"ま\/マ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"10",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"りゅ",
+"Katakana":"リュ",
+"Romatic":"ryu",
+"row":"ら\/ラ 行",
+"col":"ゆ \/ ユ 段",
+"row_num":"11",
+"col_num":"2",
+"type":"拗音"
+},
+{
+"Hiragana":"きょ",
+"Katakana":"キョ",
+"Romatic":"kyo",
+"row":"か\/カ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"1",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"ぎょ",
+"Katakana":"ギョ",
+"Romatic":"gyo",
+"row":"が\/ガ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"2",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"しょ",
+"Katakana":"ショ",
+"Romatic":"sho",
+"row":"さ\/サ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"3",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"じょ",
+"Katakana":"ジョ",
+"Romatic":"jyo",
+"row":"ざ\/ザ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"4",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"ちょ",
+"Katakana":"チョ",
+"Romatic":"cho",
+"row":"た\/タ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"5",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"にょ",
+"Katakana":"ニョ",
+"Romatic":"nyo",
+"row":"な\/ナ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"6",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"ひょ",
+"Katakana":"ヒョ",
+"Romatic":"hyo",
+"row":"は\/ハ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"7",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"びょ",
+"Katakana":"ビョ",
+"Romatic":"byo",
+"row":"ば\/バ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"8",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"ぴょ",
+"Katakana":"ピョ",
+"Romatic":"pyo",
+"row":"ぱ\/パ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"9",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"みょ",
+"Katakana":"ミョ",
+"Romatic":"myo",
+"row":"ま\/マ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"10",
+"col_num":"3",
+"type":"拗音"
+},
+{
+"Hiragana":"りょ",
+"Katakana":"リョ",
+"Romatic":"ryo",
+"row":"ら\/ラ 行",
+"col":"よ \/ ヨ 段",
+"row_num":"11",
+"col_num":"3",
+"type":"拗音"
+}
+]
+}
